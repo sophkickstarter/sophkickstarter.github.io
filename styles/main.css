@@ -1,0 +1,20 @@
+h1 {
+	color: #8FBC8F;
+	font-family: sans-serif;
+	font-size: 100px;
+}
+
+.snowflake {
+	font-style: italics;
+	font-weight: bold;
+	border: 1px solid;
+}
+
+#emma {
+	padding: 30px;
+	margin: 70px;
+	border: 4px red solid;
+	background-color: blanchedalmond;
+	font-size: 20px;
+	cursor: alias;
+}
